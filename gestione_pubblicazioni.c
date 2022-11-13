@@ -72,7 +72,7 @@ TNode* cerca_pubblicazione (TTree pub)
 }
 
 /*La funzione stampa, le informazioni di tutte le pubblicazioni in archivio.
-  La funzione non restituisce alcun valore. (La funzione viene gi� fornita)*/
+  La funzione non restituisce alcun valore. (La funzione viene già fornita)*/
 void stampa_pubblicazioni (TTree pub)
 {
    tree_print(pub);
